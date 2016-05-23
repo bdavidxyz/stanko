@@ -17,7 +17,7 @@ title:                "Muffin Man\'s writings"
 tagline:              'or the front end playground'
 description:          'Front end development, maybe occasional rants and music.'
 url:                  http://stanko.null-object.com
-baseurl:              'stanko'
+baseurl:              '/stanko'
 paginate:             5
 paginate_path:        'page-:num'
 excerpt_separator:    <!--more-->
